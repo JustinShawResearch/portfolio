@@ -1,7 +1,9 @@
 # Data Scientist
 
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
 ### Education
-Computer Science, York University
+- B.Sc, Computer Science | York University 
 
 ### Work Experience
 None
